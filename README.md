@@ -15,5 +15,10 @@ To remove the compiled files, type:
 
 ## Piecewise Linear Functions Benchmarks
 
-At *pwlTests/*, you find scripts for automatic generation of instances stating properties about randomly generated rational McNaughton functions, which constitute a subclass of piecewise linear functions that are computed by a class of neural networks. See S. Preto and M. Finger, “Proving properties of binary classification
-neural networks via Łukasiewicz logic,” *Logic Journal of the IGPL*, advance online publication. [doi.org/10.1093/jigpal/jzac050](https://doi.org/10.1093/jigpal/jzac050).
+At *pwlTests/*, you find scripts for automatic generation of instances stating properties about randomly generated rational McNaughton functions, which constitute a subclass of piecewise linear functions that are computed by a class of neural networks.
+
+For a reference, see:
+
+S. Preto and M. Finger, “Proving properties of binary classification
+neural networks via Łukasiewicz logic,” *Logic Journal of the IGPL*, advance online publication.
+[doi.org/10.1093/jigpal/jzac050](https://doi.org/10.1093/jigpal/jzac050).
