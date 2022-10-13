@@ -3,7 +3,7 @@ Solver for satisfiability and logical consequence validity in Łukasiewicz Infin
 
 ## Installation
 
-You must have in your computer the compilers **gcc** and **g++**, the **SCIP Optimization Suite** callable library [(www.scipopt.org)](https://www.scipopt.org/) and the Yices SMT Solver [(yices.csl.sri.com)](https://yices.csl.sri.com/).
+You must have in your computer the compilers **gcc** and **g++**, the **SCIP Optimization Suite** [(www.scipopt.org)](https://www.scipopt.org/) and the **Yices SMT Solver** [(yices.csl.sri.com)](https://yices.csl.sri.com/).
 
 To compile **lukasol**, type the following at the root of the distribution directory:
 
