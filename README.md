@@ -22,3 +22,9 @@ For a reference, see:
 S. Preto and M. Finger, “Proving properties of binary classification
 neural networks via Łukasiewicz logic,” *Logic Journal of the IGPL*, advance online publication.
 [doi.org/10.1093/jigpal/jzac050](https://doi.org/10.1093/jigpal/jzac050).
+
+### Funding
+
+This work was supported by grant #2021/10134-0, São Paulo Research Foundation (FAPESP).
+
+This work was carried out at the Artificial Intelligence Research Institute, Spanish National Research Council (IIIA-CSIC); and the Center for Artificial Intelligence (C4AI-USP), with support by the São Paulo Research Foundation (FAPESP), grant #2019/07665-4, and by the IBM Corporation.
